@@ -1,0 +1,106 @@
+{
+    "data": [
+        {
+            "abbr": "de",
+            "name": [ "Deutschland", "Bundesrepublik"],
+            "capital": "Berlin",
+            "location": { "lat": 51.1657, "lng": 10.4515, "z": 6 }
+        },
+        {
+            "abbr": "bw",
+            "name": ["Baden-Württemberg", "Land"],
+            "capital": "Stuttgart",
+            "location": { "lat": 48.6616, "lng": 9.3501, "z": 8 }
+        },
+        {
+            "abbr": "by",
+            "name": ["Bayern", "Freistaat"],
+            "capital": "München",
+            "location": { "lat": 48.7904, "lng": 11.4979, "z": 8 }
+        },
+        {
+            "abbr": "be",
+            "name": ["Berlin", "Land"],
+            "capital": "Berlin",
+            "location": { "lat": 52.5200, "lng": 13.4050, "z": 10 }
+        },
+        {
+            "abbr": "bb",
+            "name": ["Brandenburg", "Land"],
+            "capital": "Potsdam",
+            "location": { "lat": 52.4125, "lng": 12.5316, "z": 8 }
+        },
+        {
+            "abbr": "hb",
+            "name": ["Bremen", "Freie Hansestadt"],
+            "capital": "Bremen",
+            "location": { "lat": 53.1334, "lng": 8.7585, "z": 10 }
+        },
+        {
+            "abbr": "hh",
+            "name": ["Hamburg", "Freie und Hansestadt"],
+            "capital": "Hamburg",
+            "location": { "lat": 53.5511, "lng": 9.9937, "z": 10 }
+        },
+        {
+            "abbr": "he",
+            "name": ["Hessen", "Land"],
+            "capital": "Wiesbaden",
+            "location": { "lat": 50.6521, "lng": 9.1624, "z": 8 }
+        },
+        {
+            "abbr": "mv",
+            "name": ["Mecklenburg-Vorpommern", "Land"],
+            "capital": "Schwerin",
+            "location": { "lat": 53.6127, "lng": 12.4296, "z": 8 }
+        },
+        {
+            "abbr": "ni",
+            "name": ["Niedersachsen", "Land"],
+            "capital": "Hannover",
+            "location": { "lat": 52.6367, "lng": 9.8451, "z": 7 }
+        },
+        {
+            "abbr": "nw",
+            "name": ["Nordrhein-Westfalen", "Land"],
+            "capital": "Düsseldorf",
+            "location": { "lat": 51.4332, "lng": 7.6616, "z": 8 }
+        },
+        {
+            "abbr": "rp",
+            "name": ["Rheinland-Pfalz", "Land"],
+            "capital": "Mainz",
+            "location": { "lat": 50.1183, "lng": 7.3090, "z": 8 }
+        },
+        {
+            "abbr": "sl",
+            "name": ["Saarland"],
+            "capital": "Saarbrücken",
+            "location": { "lat": 49.3964, "lng": 7.0230, "z": 10 }
+        },
+        {
+            "abbr": "sn",
+            "name": ["Sachsen", "Freistaat"],
+            "capital": "Dresden",
+            "location": { "lat": 51.1045, "lng": 13.2017, "z": 8 }
+        },
+        {
+            "abbr": "st",
+            "name": ["Sachsen-Anhalt", "Land"],
+            "capital": "Magdeburg",
+            "location": { "lat": 51.9503, "lng": 11.6923, "z": 8 }
+        },
+        {
+            "abbr": "sh",
+            "name": ["Schleswig-Holstein", "Land"],
+            "capital": "Kiel",
+            "location": { "lat": 54.2194, "lng": 9.6961, "z": 8 }
+        },
+        {
+            "abbr": "th",
+            "name": ["Thüringen", "Freistaat"],
+            "capital": "Erfurt",
+            "location": { "lat": 51.0110, "lng": 10.8453, "z": 8 }
+        }
+    ]
+}
